@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "367589168307",
+    "project_id": "anti-monkey-87c13",
+    "storage_bucket": "anti-monkey-87c13.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367589168307:android:76cc051eb1ed21a78eccc6",
+        "android_client_info": {
+          "package_name": "com.flutterflow.antimonkey"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "367589168307-e36a8b8fc87lm5i1jgif94s6ar9liesn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUmIDR6_ZNHzO1ehgMnfJo9fieAaKUiF0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "367589168307-e36a8b8fc87lm5i1jgif94s6ar9liesn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
